@@ -1,0 +1,51 @@
+#main {
+    font-weight: bold;
+    font-size: 50px;
+    font-family: georgia;
+    text-align: center;
+    color: orange;
+    text-transform: uppercase;
+    background-color: #CDFEE8;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    background-color: #E6FFFD;
+    font-family: Helvetica;
+    font-size: 20pt;
+    text-align: center;
+}
+
+th {
+    background-color: black;
+    color: white;
+    font-family: georgia;
+}
+
+#name {
+    text-align: left;
+    color: #5FA3AB;
+    font-weight: bold;
+    font-family: Comic Sans MS;
+    font-size: 20pt;
+}
+
+#child {
+    font-weight: bold;
+    font-family: Gadget;
+    text-align: left;
+    color: #25CDED;
+    text-transform: uppercase;
+}
+
+#reminder {
+    color: green;
+    text-align: left;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+
+}
+
